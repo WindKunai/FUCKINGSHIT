@@ -1,0 +1,16 @@
+* {
+    background-color: gray;
+}
+
+.wrapper {
+    width: 50%;
+    height: 120%;
+    background-color: black 0.5;
+    left: auto;
+    right: auto;
+    top: auto;
+    bottom: auto;
+    align-self: center;
+    justify-content: center;
+    
+}

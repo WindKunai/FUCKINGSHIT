@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="wrapper">
+    {% if username %}
+        <h1> Hey {{username}}! FUCK YOU IN PARTICULAR</h1>
+
+    {% else %}
+        <h2> Fuck you</h2>
+    {% endif %}
+</div>
+{% endblock %}
